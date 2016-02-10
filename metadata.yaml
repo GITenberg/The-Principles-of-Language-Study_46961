@@ -1,0 +1,24 @@
+_repo: The-Principles-of-Language-Study_46961
+creator:
+  author:
+    agent_name: Palmer, Harold E.
+    alias: Palmer, H. E. (Harold E.)
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '44059'
+    url: http://www.gutenberg.org/2009/agents/44059
+description: ''
+gutenberg_issued: '2014-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Languages, Modern -- Study and teaching'
+- !lcsh 'Language and languages -- Study and teaching'
+title: The Principles of Language-Study
+url: http://www.gutenberg.org/ebooks/46961
